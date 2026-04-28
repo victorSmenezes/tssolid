@@ -1,0 +1,18 @@
+Vantagens e desvantagens do S.O.L.I.desvantagens
+
+
+Vantagens:
+- Código modular;
+- Código reutilizável (D.R.Y - Don't Repeat Yourself);
+- Código testável, baixo acoplamento;
+- Baixo acoplamento e alta coesão;
+- Código expansível;
+- Separations of Concerns (Separação de conceitos);
+- Fácil manutenção;
+
+Desvantagens:
+
+- Complexidade;
+- Quantidade de código digitado aumenta;
+- Tempo de desenvolvimento aumenta bastante;
+- Tenha cuidados com: YAGNI, KISS (You Aren't Gonna Need It, Keep It Simple, Stupid!)
